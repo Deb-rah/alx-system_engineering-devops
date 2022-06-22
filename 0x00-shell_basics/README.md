@@ -1,1 +1,1 @@
-Prints the type of file
+Symbolic link in current working directory
