@@ -1,1 +1,1 @@
-This repository is for systems
+This repo is for systems
