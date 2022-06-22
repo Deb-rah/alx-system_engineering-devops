@@ -1,1 +1,1 @@
-This repo is for syatems
+This repo is for systems
