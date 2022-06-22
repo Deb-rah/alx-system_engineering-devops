@@ -1,1 +1,1 @@
-Display hidden files too
+Display numerically
