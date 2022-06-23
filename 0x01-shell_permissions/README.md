@@ -1,1 +1,1 @@
-Setting permissions
+Writing a script
