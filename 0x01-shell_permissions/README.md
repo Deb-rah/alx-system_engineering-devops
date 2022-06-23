@@ -1,1 +1,1 @@
-I am learning shell permissions
+Learning shell permissions
