@@ -1,1 +1,1 @@
-Adds execution permission
+Setting permissions
