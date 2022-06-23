@@ -1,1 +1,1 @@
-Writing a script
+Script that sets the mode
