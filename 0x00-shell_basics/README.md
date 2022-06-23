@@ -1,1 +1,1 @@
-Symbolic link in current working directory
+Symbolic link created in current working directory
