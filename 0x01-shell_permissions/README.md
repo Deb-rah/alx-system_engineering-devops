@@ -1,1 +1,1 @@
-Change of ownership
+An empty file
