@@ -1,1 +1,1 @@
-my dir with permissions
+Change group owner to school
