@@ -1,1 +1,1 @@
-Changes group owner
+my dir with permissions
