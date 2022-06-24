@@ -1,1 +1,1 @@
-Script that sets the mode
+Ececute permission to subdirectories
